@@ -1,2 +1,2 @@
 # AR-Demos
- Image and Plane detection demos in Unity AR
+ Image Detection and Plane Detection demos
